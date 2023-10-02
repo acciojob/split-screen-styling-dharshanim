@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-[6:05 pm, 02/10/2023] +91 70110 21764: /* styles.css */
+/* styles.css */
 
 body {
     margin: 0;
@@ -47,6 +47,7 @@ body {
 }
 
 .aside {
-	 flex: 1;
+    flex: 1;
     padding: 1em;
 }
+
